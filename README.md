@@ -34,16 +34,16 @@ Gunakan kredensial berikut untuk masuk ke dasbor user:
 
 ## 📸 Tangkapan Layar Aplikasi
 #### Halaman Utama Toko
-<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/b1183361-25ab-48bc-afec-9d421bc8fc2b" />
+<img width="1892" height="873" alt="image" src="https://github.com/user-attachments/assets/b94df459-631f-46ba-9555-6713f6a3f990" />
 
 #### Halaman Login
-
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/b1183361-25ab-48bc-afec-9d421bc8fc2b" />
 
 #### Dasbor Admin
-![Uploading image.png…]()
+<img width="1539" height="519" alt="image" src="https://github.com/user-attachments/assets/9d714888-b99c-41c0-b5dc-26a00e747144" />
 
 #### Halaman Manajemen Produk
-![Uploading image.png…]()
+<img width="1887" height="872" alt="image" src="https://github.com/user-attachments/assets/b5101a39-29ae-4f83-a851-e6e794094f93" />
 
 ---
 
