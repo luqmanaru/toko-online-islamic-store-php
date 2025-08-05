@@ -1,0 +1,100 @@
+.warna1 {
+    background-color: #E1F0DA;
+    
+}
+
+.warna2 {
+    background-color: #D4E7C5;
+}
+
+.warna3 {
+    background-color: #BFD8AF;
+}
+
+.warna4 {
+    background-color: #99BC85;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../image/banner-islami.jpg);
+    background-position: center; /* Atur posisi background ke tengah */
+    background-size: cover; /* Atur agar gambar background menutupi seluruh area */
+}
+
+
+.poduk-unggul {
+    height: 250px;
+}
+
+.unggul1 {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../image/cewe2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.unggul2 {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../image/laki2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.unggul3 {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../image/hijrah2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none !important;
+    color: #ffffff;
+}
+
+.no-decoration:hover {
+    color: #99BC85;
+}
+
+.text-harga {
+    font-size: 20px;
+    color: coral;
+}
+
+.image-box {
+    height: 200px !important;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+    color: #fff;
+}
+
+.banner2 {
+    height: 45vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../image/banner-islami.jpg);
+    background-position: 40% 55%; /* Atur posisi background ke tengah */
+    background-size: cover; /* Atur agar gambar background menutupi seluruh area */
+}
+
+.produk-terkait-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.banner3 {
+    height: 45vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../image/pemudasholeh.jpg);
+    background-position: 40% 55%; /* Atur posisi background ke tengah */
+    background-size: cover; /* Atur agar gambar background menutupi seluruh area */
+}
